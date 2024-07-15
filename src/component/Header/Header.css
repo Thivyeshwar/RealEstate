@@ -1,5 +1,5 @@
 .h-wrapper{
-    background-color: black;
+    /* background-color: black; */
     color: white;
 }
 
@@ -16,6 +16,11 @@
 
 .h-menu>*:hover{
     cursor:pointer;
-    background-color: grey;
+}
+
+a:hover{
+    padding: 6px;
+    background-color: grey ;
+    border-radius: 6px;
 }
 

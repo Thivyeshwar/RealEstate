@@ -27,7 +27,7 @@ function Extra() {
             <button className="button">Search</button>
          </div>
 
-         <div className="flexCenter stat">
+         <div className="flexCenter stats">
           <div className="flexColCenter stat">
             <span>
               <CountUp start = {8500} end={9000} duration={4}/>
@@ -50,7 +50,7 @@ function Extra() {
         </div>
         <div className="flexCenter extra-right">
             <div className="image-container">
-                <img src="./mainimage.png" alt="main image"/>
+                <img src="./mainimage.jpg" alt="main image"/>
             </div>
         </div>
         </div>
